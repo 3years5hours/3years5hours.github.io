@@ -38,8 +38,8 @@
                
         }
        
-        document.write( a+"<br>" );
-        document.write( string);
+        document.write( string +"<br>");
+        document.write( b );
         //document.write( b );
         //document.write( string );
 
