@@ -39,7 +39,7 @@
         }
        
         document.write( string );
-        document.write( b );
+        //document.write( b );
         
         //document.write( string );
 
