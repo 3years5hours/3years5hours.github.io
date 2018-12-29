@@ -40,7 +40,7 @@
        
         document.writeln( b );
         document.write( string);
-        document.write( b );
+        //document.write( b );
         
         //document.write( string );
 
