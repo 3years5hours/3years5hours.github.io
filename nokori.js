@@ -38,7 +38,7 @@
                
         }
        
-        document.write( string+b);
+        document.write( string \n +b);
         //document.write( string );
 
 -->
