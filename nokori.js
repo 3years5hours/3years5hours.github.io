@@ -41,7 +41,6 @@
         document.write( a+"<br>" );
         document.write( string);
         //document.write( b );
-        
         //document.write( string );
 
 -->
