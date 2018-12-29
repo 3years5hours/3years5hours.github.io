@@ -38,8 +38,8 @@
         }
         //a="※受付終了の場合は、予約注文となり翌月曜日に発送いたします。";
         //b="12月30日～1月3日はお休みとなります。12月29日以降のご注文は、1月4日発送となります。";
-        //document.write( string + b);
-        document.write( string );
+        document.write( string + b);
+        //document.write( string );
 
 -->
 /*]]>*/
