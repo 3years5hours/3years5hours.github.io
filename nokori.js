@@ -38,7 +38,7 @@
                
         }
        
-        document.write( string +"<br>" +b);
+        document.write( string ¥r¥n b);
         //document.write( string );
 
 -->
