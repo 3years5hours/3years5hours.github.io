@@ -38,5 +38,11 @@
         }
         
         document.write( string );
+document.write(‘\
+\
+example\
+foo bar\
+\
+‘);
 -->
 /*]]>*/
