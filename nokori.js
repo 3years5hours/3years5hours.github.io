@@ -38,7 +38,8 @@
                
         }
        
-        document.writeln( string);
+        document.writeln( b );
+        document.write( string);
         document.write( b );
         
         //document.write( string );
