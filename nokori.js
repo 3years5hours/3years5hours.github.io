@@ -37,7 +37,6 @@
                         break;
                
         }
-        document.write("<pre>");
         document.writeln( string );
         document.write( b );
         //document.write( string );
