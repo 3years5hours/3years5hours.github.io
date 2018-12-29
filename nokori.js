@@ -37,9 +37,8 @@
                         break;
                
         }
-        document.writeln( "<pre>" ) ;
-        document.writeln( string );
-        document.writeln( "</pre>" ) ;
+       
+        document.write( string );
         document.write( b );
         
         //document.write( string );
