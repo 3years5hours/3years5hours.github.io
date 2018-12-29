@@ -37,8 +37,11 @@
                         break;
                
         }
+        document.writeln( "<pre>" ) ;
         document.writeln( string );
+        document.writeln( "</pre>" ) ;
         document.write( b );
+        
         //document.write( string );
 
 -->
