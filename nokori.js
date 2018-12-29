@@ -39,7 +39,7 @@
         }
         document.write("<pre>");
         document.writeln( string );
-        document.writeln( b );
+        document.write( b );
         //document.write( string );
 
 -->
