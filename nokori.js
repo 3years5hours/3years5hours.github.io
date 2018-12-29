@@ -33,13 +33,13 @@
                         break;
                 case '土':
                         // 土曜日の場合
-                        string = '今週分の受付は終了しました。'.fontsize(6).bold()\n;
+                        string = '今週分の受付は終了しました。'.fontsize(6).bold();
                         break;
                
         }
        
-        document.write( string + b );
-        //document.write( b );
+        document.write( string);
+        document.write( b );
         
         //document.write( string );
 
