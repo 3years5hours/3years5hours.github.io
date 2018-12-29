@@ -38,7 +38,7 @@
                
         }
        
-        document.write( b+"<br>" );
+        document.write( a+"<br>" );
         document.write( string);
         //document.write( b );
         
