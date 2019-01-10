@@ -1,5 +1,5 @@
 /* <![CDATA[ */
-<!--
+
         var weeks       = new Array('日','月','火','水','木','金','土');
         var today       = new Date();                           //      日付オブジェクト取得
         var week        = weeks[today.getDay()];        //      曜日取得
@@ -42,5 +42,5 @@
         document.write( a );
         
 
--->
+
 /*]]>*/
