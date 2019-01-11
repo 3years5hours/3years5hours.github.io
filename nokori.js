@@ -1,5 +1,5 @@
 /* <![CDATA[ */
-<!--
+
         var weeks       = new Array('日','月','火','水','木','金','土');
         var today       = new Date();                           //      日付オブジェクト取得
         var week        = weeks[today.getDay()];        //      曜日取得
@@ -35,13 +35,11 @@
                         // 土曜日の場合
                         string = '今週分は残り'.fontsize(6).bold()+'5'.fontsize(7).bold().fontcolor("red")+'セットです。'.fontsize(6).bold();
                         break;
-               
+
         }
-       
+
         document.write( string +"<br>");
         document.write( a );
-        //document.write( b );
-        //document.write( string );
 
--->
+
 /*]]>*/
