@@ -41,5 +41,4 @@
         document.write( string +"<br>");
         document.write( a );
 
-
 /*]]>*/
