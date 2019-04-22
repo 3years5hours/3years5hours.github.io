@@ -4,7 +4,7 @@
         var week        = weeks[today.getDay()];        //      曜日取得
         var string      = '';                                           //      文言格納用変数
         var a = "※受付終了の場合は、予約注文となり翌月曜日に発送いたします。"
-        var b = "12月30日～1月3日はお休みとなります。12月29日以降のご注文は、1月4日発送となります。"
+        var b = "4月27日～5月6日はお休みとなります。4月26日以降のご注文は、5月7日発送となります。"
         switch(week) {
                 case '日':
                         // 日曜日の場合
@@ -39,5 +39,3 @@
 
         document.write( string +"<br>");
         document.write( a );
-
-
