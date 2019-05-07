@@ -38,4 +38,4 @@
         }
 
         document.write( string +"<br>");
-        document.write( b );
+        //document.write( b );
