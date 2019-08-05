@@ -39,5 +39,4 @@
         }
 
         // document.write( string +"<br>");
-        //document.write( c );
-        document.write(c.big().bold().fontcolor("green")+"<br>");
+        document.write( c );
