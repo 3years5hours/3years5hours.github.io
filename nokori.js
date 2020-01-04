@@ -40,4 +40,3 @@
         }
 
         document.write( string +"<br>");
-        document.write( d );
