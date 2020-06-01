@@ -41,5 +41,5 @@
                         break;
 
         }
-        document.write( e +"<br>" + f );
-        //document.write( string +"<br>" );
+        //document.write( e +"<br>" + f );
+        document.write( string +"<br>" );
