@@ -44,7 +44,7 @@ var weeks  = new Array('日','月','火','水','木','金','土');
                         break;
 
         }
-        document.write( h +"<br>"  );
-        //document.write( string +"<br>" );
+        //document.write( h +"<br>"  );
+        document.write( string +"<br>" );
         -->
         /*]]>*/
